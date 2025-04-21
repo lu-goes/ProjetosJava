@@ -61,6 +61,5 @@ public class ProjetoMenu {
         return validador();
     }
     
-    
-    };
+    }
 }
